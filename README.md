@@ -11,3 +11,5 @@ To demonstrate utility of the pipeline, we tested it using metabolomics data gen
 The samples were composed of 43 lean control versus 88 obese participants to identify metabolites that might be associated with diabetic neuropathy. 
 The pipeline identified 5 metabolites that were associated with diabetic neuropathy including: 1,7-dimethylurate, caffeine, ergothioneine, glycocholate glucuronide (1),
 and theophylline.
+
+https://nbviewer.jupyter.org/github/FADHLyemen/MetabolonR/blob/master/MetabolonR_pipeline.ipynb
