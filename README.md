@@ -3,6 +3,9 @@ MetabolonR: a reproducible Jupyter-notebook workflow for analyzing metabolomics 
 
 Metabolon is a standardized, open source analysis workflow that can be used as a template for any exploratory metabolomics data analysis. 
 This pipeline performs quality checks and preprocessing steps, biomarker discovery using four methods, source of variation analysis, clustering and machine learning classification, and network analysis. 
+
+![Image description](./Capture.PNG)
+
 It is implemented in Jupyter Notebook-R kernel and can be modified or extended for any application, and used to generate publication-quality figures. 
 
 
